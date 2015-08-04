@@ -15,7 +15,7 @@ class DataDAO extends DAO {
 
     public function insert($array) {
         /*
-         * Example demostrating an override method that
+         * Example demostrating an overridden method that
          * returns the id of the last inserted object considering 
          * that the db is using AUTO_INCREMENT
          */
